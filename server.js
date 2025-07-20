@@ -21,7 +21,7 @@ mongoose.connect(uri)
 .then(() => console.log("Connected to Zenith DB"))
 .catch((e) => console.log("Unable to connect to Zenith DB"));
 
-// Root route - health check or API status
+// Root route
 app.get('/', (req,res) => {
     res.status(201).json("Zenith API")
 })
