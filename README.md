@@ -25,7 +25,7 @@ A simple API - ***Zenith API*** , the backend system for a growing e-commerce pl
 - Postman installed
 
 ### Steps to run 
-- Clone the repository (git clone https://github.com/yourusername/zenith-api.git)
+- Clone the repository (git clone 'URL/link')
 - Navigate to project directory(cd to directory)
 - Install dependencies npm init y 
 - Update pakage.json file as per requirement
